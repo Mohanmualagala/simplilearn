@@ -1,0 +1,7 @@
+FILE HANDLING
+STEP 1: Instantiate the main class and import the Scanner package
+STEP 2: Instantiate a variable to switch the variable according to the user’s preference.
+STEP 3: Every Switch statement is enclosed using try catch block to catch Exceptions created using project phase 1.
+STEP 4: Object of the BufferWriter class is instantiated to read and write the records in the file created and the file is named as records.txt
+STEP 5: BufferReader class is used to read records from the file and BufferWriter is used to write records into the file
+STEP 6: After every method implementation the file is closed using close() method.

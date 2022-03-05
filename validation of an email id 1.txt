@@ -1,0 +1,4 @@
+Validation of an Email id
+STEP 1: Instantiate the main class and import the Scanner package
+STEP 2: Instantiate a variable to switch the variable according to the user’s preference.
+STEP 3: Every Switch statement is enclosed using try catch block to catch Excepti.
